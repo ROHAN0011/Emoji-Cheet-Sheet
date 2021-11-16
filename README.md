@@ -15,7 +15,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 9. [Flags](#flags)
 10. [GitHub Custom Emoji](#github-custom-emoji)
 
-### 1. Smileys & Emotion
+###1. Smileys & Emotion
 
 - [Face Smiling](#face-smiling)
 - [Face Affection](#face-affection)
@@ -190,7 +190,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :right_anger_bubble: | `:right_anger_bubble:` | :thought_balloon: | `:thought_balloon:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :zzz: | `:zzz:` | | | [top](#table-of-contents) |
 
-### 2. People & Body
+###2. People & Body
 
 - [Hand Fingers Open](#hand-fingers-open)
 - [Hand Fingers Partial](#hand-fingers-partial)
