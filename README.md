@@ -189,3 +189,22 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :eye_speech_bubble: | `:eye_speech_bubble:` | :left_speech_bubble: | `:left_speech_bubble:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :right_anger_bubble: | `:right_anger_bubble:` | :thought_balloon: | `:thought_balloon:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :zzz: | `:zzz:` | | | [top](#table-of-contents) |
+
+### 2. People & Body
+
+- [Hand Fingers Open](#hand-fingers-open)
+- [Hand Fingers Partial](#hand-fingers-partial)
+- [Hand Single Finger](#hand-single-finger)
+- [Hand Fingers Closed](#hand-fingers-closed)
+- [Hands](#hands)
+- [Hand Prop](#hand-prop)
+- [Body Parts](#body-parts)
+- [Person](#person)
+- [Person Gesture](#person-gesture)
+- [Person Role](#person-role)
+- [Person Fantasy](#person-fantasy)
+- [Person Activity](#person-activity)
+- [Person Sport](#person-sport)
+- [Person Resting](#person-resting)
+- [Family](#family)
+- [Person Symbol](#person-symbol)
