@@ -6,14 +6,14 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 1. [Smileys & Emotion](#smileys--emotion)
 2. [People & Body](#people--body)
-- [Animals & Nature](#animals--nature)
-- [Food & Drink](#food--drink)
-- [Travel & Places](#travel--places)
-- [Activities](#activities)
-- [Objects](#objects)
-- [Symbols](#symbols)
-- [Flags](#flags)
-- [GitHub Custom Emoji](#github-custom-emoji)
+3. [Animals & Nature](#animals--nature)
+4. [Food & Drink](#food--drink)
+5. [Travel & Places](#travel--places)
+6. [Activities](#activities)
+7. [Objects](#objects)
+8. [Symbols](#symbols)
+9. [Flags](#flags)
+10. [GitHub Custom Emoji](#github-custom-emoji)
 
 ### Smileys & Emotion
 
