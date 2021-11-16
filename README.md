@@ -4,8 +4,8 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 ## Table of Contents
 
-1 [Smileys & Emotion](#smileys--emotion)
-- [People & Body](#people--body)
+(1) [Smileys & Emotion](#smileys--emotion)
+(2) [People & Body](#people--body)
 - [Animals & Nature](#animals--nature)
 - [Food & Drink](#food--drink)
 - [Travel & Places](#travel--places)
